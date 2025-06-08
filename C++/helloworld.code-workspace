@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "hello-world-cpp"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	}
+}
