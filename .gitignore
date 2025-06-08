@@ -1,2 +1,3 @@
-./C++/hello-world-cpp/.vscode
-./C++/hello-world-cpp/node_modules
+./C++/helloworld.code-workspace
+./C++/hello-world-cpp/.vscode/
+./C++/hello-world-cpp/node_modules/
